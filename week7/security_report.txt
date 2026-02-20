@@ -1,0 +1,7 @@
+SECURITY INCIDENTS
+==================================================
+
+Total Incidents: 2
+
+Brute force attempt suspected from 192.168.1.11
+Forbidden access attempt: 192.168.1.12 -> /admin

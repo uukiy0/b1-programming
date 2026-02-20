@@ -1,0 +1,7 @@
+2026-02-20 21:22:12,126 - WARNING - Brute force attempt suspected from 192.168.1.11
+2026-02-20 21:22:12,126 - WARNING - Forbidden access attempt: 192.168.1.12 -> /admin
+2026-02-20 21:22:12,126 - WARNING - Skipping malformed log entry.
+2026-02-20 21:22:12,126 - INFO - Log analysis completed successfully.
+2026-02-20 21:22:12,159 - INFO - Summary report generated.
+2026-02-20 21:22:12,160 - INFO - Security report generated.
+2026-02-20 21:22:12,161 - INFO - Error report generated.
